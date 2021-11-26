@@ -35,4 +35,6 @@ https://user-images.githubusercontent.com/55853397/143593332-73a6c442-1853-43df-
 
 Meanwhile at the end, we were playing together. Not individual people playing parts that happened to coincide, but _genuinely_ playing together as an ensemble! When it comes to music I like pieces with very strong rhythm that really shakes one's body, so the ensemble performance was just this... Moment of bliss? As a kid I used to stand beside the lion dance drums during Chinese New Year, so this was a bit of a childhood dream come true sort of thing for me. 
 
+As an aside and final note: As I type this my thumb callouses are still going strong. While I lack the nails to play the mbira, it seems that the tough skin at least has protected my thumbs sufficiently.
 
+![image](https://user-images.githubusercontent.com/55853397/143599631-735c9b48-224a-4dd3-8f31-ab1620b91176.png)

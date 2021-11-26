@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+I took MUA3219 because I am in my fourth year and wanted something fun and non-core to take, and also because Hema suggested this class (and GEH1047) to me. Having a friend to take this with and being able to take a music-playing class without having any music background sounded really neat.
 
-You can use the [editor on GitHub](https://github.com/J-Dan23/MUA3219/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My only experience with music in recent memory is playing music rhythm games: games that require some sort of player input according to the game’s prompting, usually following a piece of music’s rhythm and melody. Surprisingly, that actually did help me with learning rhythms on the djembe. For me, learning the various djembe 1 and 2, the breaks and especially the chauffe was initially about counting. Then after I knew how many of each type of base, tone and slaps and in what order, to “feel” how they go together. I’m unsure of how musicians in YST learn their complex performance pieces, but for me learning the djembe parts was about internalizing the duration between the beats, and remembering how the parts interact with one another.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I mention the chauffe specially because I had a tendency to forget how many slaps I have done, or confusing which part of the four-part chauffe I’m on. In a way it reminded me of Rhythm Doctor’s first track , as although the game counts the beats for you (and you hit on the 7th beat), I find it easier to “feel” out the 7th beat rather than explicitly count. It took me quite awhile to remember the djembe parts. I distinctly recall coming back from recess week utterly lost, and frantically asking the people beside me (I believe it was either Joshua or Raychie who kindly helped me?) to demo out the djembe parts so that I wouldn’t be staring blankly while everyone played. It took a few trials and the person correcting my drumming and I remembered again – because at some point I did start to understand how the parts “felt”. 
 
-### Markdown
+And I think that’s what Ty meant when he taught us the mbira pieces as well; that there is a difference between rote learning of the notes to play and feeling how the song works and how to really play the song. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mbira songs initially surprised me by how short they are at first glance. As the last actual instruments I learned were the recorder about 10 years ago and the keyboard at around 15 years ago, I was quite worried when Ty brought out his cart of mbiras and distributed them. The mbiras have keys, which to me means I would have to know what the keys sound like, to remember who to play a sequence of notes. It harkened back buried memories of staring at a colourful book of sheet music with simple scores for nursery rhymes and being unable to translate what I saw into the black and white keys of the keyboard, or struggling to cover recorder holes with fingers too short and stiff to manage the distance. 
+Because of that, I was relieved that Ty’s teaching method (even if it didn’t follow the traditional way mbira pieces are taught in Shona communities because we simply would not be able to learn by listening alone) was demo-ing what notes to hit and when to do so. No sheet music, no needing to know musical terminology. And since we were allowed to bring the mbiras home to practice, coupled with recordings of the pieces on Luminus (and in the case of Kariga Mombe, in the very secret Telegram group chat), it was a matter of time and effort to remember what to play.
 
-```markdown
-Syntax highlighted code block
+Unfortunately, I very rapidly came up short against the difficulty wall which was moving beyond the rote playing for mbira. For djembe, I could feel the rhythm more easily and the difficulty came in for remembering the different parts and try to flow between them during the performance (more later). For mbira, I could feel what the base song was “supposed” to sound like according to how Ty taught it, but I struggled to move beyond that. I experimented with the “play the first right note then jump high and step down” variation for Dande but up till the end of the semester I am embarrassed to say I did not practice sufficiently to make much headway. Definitely not enough to spontaneously vary from beyond the “base version” while playing, let alone do anything clever and vary bit by bit. And perhaps that is something I will need much time to change my mindset of: That songs have a “basic version” or “initial version”. Mbira pieces do have original forms, especially for those meant to be played during mbira ceremonies. After all, they’re the songs meant to call back Shona ancestors. But even then it isn’t a single canonical version so much as the overall “feel” of the song that identifies it. The concept of there being an “original version” is very much one built from how I consume media. That being I listen to songs, typically written by a specific group, and other versions are seen as remixes, covers, or remakes in deference to the initial creation. 
+The other wall I came up against for the mbira half of the module was my struggle to change how I interpret beats and sections of beats. Hema already used this screenshot but at one point this was my Discord status: 
+ 
+It was a status made to represent my frustration at being unable to change how I heard Nhema Musasa from “three sets of four beats” to “four sets of three beats”. It also made me realise that beats I tended to identify in music I hear from games or piped in from stores might actually be very different from what others feel. 
 
-# Header 1
-## Header 2
-### Header 3
+< Video of Ty playing Nhema Musasa with different emphasis>
 
-- Bulleted
-- List
+I nonetheless still really enjoyed playing the mbira. It’s a beautiful instrument, and for me also that simple joy in realizing “hey, I can play an instrument!” Ty stated at the start that the hardest song to learn for the mbira is the first one, and that it only got easier. He was right. At the start, I craned my head to check against the visualizer output and trying to figure out which key Ty played matches the key on my mbira. Later, during the week where we learned the singing for Kariga Mombe, I had neglected to practice it in favour of the other two pieces. However, I believe it was Phat who demo-ed a few times in the YST café prior to class and I sort of picked Kariga Mombe up from there. Because by midway through the semester I knew what my mbira should sound like, and what his (due to being in the same tuning by the same maker) should sound like. And linking back to my initial worries, it’s a good feeling to realise that I did actually learn what the instrument should sound like. And more importantly, that I could create actual music with the instrument. 
 
-1. Numbered
-2. List
+This was especially apparent to me come the two end of semester performances. As mentioned, I struggled and still struggle to sing while playing on the mbira. It gave me a new amount of respect for street buskers whom I’ve seen do both with seeming ease, now that I have a taste of the amount of effort required to familiarize oneself with both the instrument and the singing and playing parts in order to do the two not just simultaneously, but without speeding up. It’s rather amusing to listen to the mbira recordings, as our slow initial tempo sped up by the end. 
 
-**Bold** and _Italic_ and `Code` text
+Our submitted attempt for Dande is something I’ll hold proudly with me: Listening back to the recording, I can actually hear all of us playing together and the kushaura and kutsinhira parts interlocking. And prouder for me, that I actually managed to contribute a part of my voice into the song at the “ye wo i-yo” section without sputtering off as my fingers twist into knots under the distraction of remembering the vocal lines. I don’t exactly hate my voice, but I do get a little self-conscious about it. In particular, I worry about being off-pitch or flat, or worrying about my vocal range. But singing the vocal parts for the mbira made me a little more comfortable, to the point I was excited to play snippets over voice chat and try to sing parts of it to friends online. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/J-Dan23/MUA3219/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A similar takeaway for the djembe performance I suppose, would be being able to actually be in an ensemble. It’s scary how far we’ve come, from being unsure of how to properly carry out a slap (it still stings a little though) to being able to put it all together into a coherent piece that flows between parts, able to keep an eye and ear out for the signal, and seamlessly (to a degree!) moving between drums and then shifting to a different piece. 

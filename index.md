@@ -37,4 +37,5 @@ Meanwhile at the end, we were playing together. Not individual people playing pa
 
 As an aside and final note: As I type this my thumb callouses are still going strong. While I lack the nails to play the mbira, it seems that the tough skin at least has protected my thumbs sufficiently.
 
-![image](https://user-images.githubusercontent.com/55853397/143599631-735c9b48-224a-4dd3-8f31-ab1620b91176.png)
+![image](https://user-images.githubusercontent.com/55853397/143599844-e82fd2c1-7de5-4faa-aca3-15cd02bc5a55.png)
+

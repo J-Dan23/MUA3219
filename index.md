@@ -26,3 +26,13 @@ https://user-images.githubusercontent.com/55853397/143584486-9a7215de-9e99-4681-
 Above is a clip of our submitted attempt for Dande is something I’ll hold proudly with me: Listening back to the recording, I can actually hear all of us playing together and the kushaura and kutsinhira parts interlocking. And prouder for me, that I actually managed to contribute a part of my voice into the song at the “ye wo i-yo” section without sputtering off as my fingers twist into knots under the distraction of remembering the vocal lines. I don’t exactly hate my voice, but I do get a little self-conscious about it. In particular, I worry about being off-pitch or flat, or worrying about my vocal range. But singing the vocal parts for the mbira made me a little more comfortable, to the point I was excited to play snippets over voice chat and try to sing parts of it to friends online. 
 
 A similar takeaway for the djembe performance I suppose, would be being able to actually be in an ensemble. It’s scary how far we’ve come, from being unsure of how to properly carry out a slap (it still stings a little though) to being able to put it all together into a coherent piece that flows between parts, able to keep an eye and ear out for the signal, and seamlessly (to a degree!) moving between drums and then shifting to a different piece. 
+
+https://user-images.githubusercontent.com/55853397/143593234-89cef8f5-25a0-4431-ab66-e297fa320c9f.mp4
+
+As seen above, initially there was a sort of awkward stiltedness to our playing. The movements weren't smooth. To my untrained ears the drumming sounded "ok" but not really more than that. 
+
+https://user-images.githubusercontent.com/55853397/143593332-73a6c442-1853-43df-b0b3-780cb9d70eb8.mp4
+
+Meanwhile at the end, we were playing together. Not individual people playing parts that happened to coincide, but _genuinely_ playing together as an ensemble! When it comes to music I like pieces with very strong rhythm that really shakes one's body, so the ensemble performance was just this... Moment of bliss? As a kid I used to stand beside the lion dance drums during Chinese New Year, so this was a bit of a childhood dream come true sort of thing for me. 
+
+
